@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ponlawat-w/osm-pbf-io#readme",
   "dependencies": {
-    "protobufjs": "6.8.8",
+    "protobufjs": "6.11.3",
     "zlib": "1.0.5"
   }
 }
